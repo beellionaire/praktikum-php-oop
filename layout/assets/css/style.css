@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+}
+
+input {
+  width: 300px;
+  height: 25px;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-ubah {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #007bff; 
+}
+
+.btn-tambah {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #2dbd3c; 
+}
+
+.btn-hapus {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #eb1547; 
+}
